@@ -1,0 +1,56 @@
+{
+  "color": {
+    "primary": {
+      "value": "{!M3/Light.Schemes.Primary.value}",
+      "type": "color"
+    },
+    "on-primary": {
+      "value": "{!M3/Light.Schemes.On Primary.value}",
+      "type": "color"
+    },
+    "primary-container": {
+      "value": "{!M3/Light.Schemes.Primary Container.value}",
+      "type": "color"
+    },
+    "on-primary-container": {
+      "value": "{!M3/Light.Schemes.On Primary Container.value}",
+      "type": "color"
+    },
+    "secondary": {
+      "value": "{!M3/Light.Schemes.Secondary.value}",
+      "type": "color"
+    },
+    "on-secondary": {
+      "value": "{!M3/Light.Schemes.On Secondary.value}",
+      "type": "color"
+    },
+    "background": {
+      "value": "{!M3/Light.Schemes.Background.value}",
+      "type": "color"
+    },
+    "on-background": {
+      "value": "{!M3/Light.Schemes.On Background.value}",
+      "type": "color"
+    },
+    "surface": {
+      "value": "{!M3/Light.Schemes.Surface.value}",
+      "type": "color"
+    },
+    "on-surface": {
+      "value": "{!M3/Light.Schemes.On Surface.value}",
+      "type": "color"
+    },
+    "error": {
+      "value": "{!M3/Light.Schemes.Error.value}",
+      "type": "color"
+    },
+    "on-error": {
+      "value": "{!M3/Light.Schemes.On Error.value}",
+      "type": "color"
+    },
+    "outline": {
+      "value": "{!M3/Light.Schemes.Outline.value}",
+      "type": "color"
+    }
+  }
+}
